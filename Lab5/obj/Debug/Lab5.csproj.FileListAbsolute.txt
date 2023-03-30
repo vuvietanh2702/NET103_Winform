@@ -1,0 +1,16 @@
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\Lab5.exe.config
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\Lab5.exe
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\Lab5.pdb
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\EntityFramework.dll
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\EntityFramework.SqlServer.dll
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\EntityFramework.xml
+D:\NETC#_IT18201\NET103_Winform\Lab5\bin\Debug\EntityFramework.SqlServer.xml
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.Form1.resources
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.exe
+D:\NETC#_IT18201\NET103_Winform\Lab5\obj\Debug\Lab5.pdb
